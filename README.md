@@ -3,4 +3,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyy-router/yyy-router/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yyy-router/yyy-router/output/github-contribution-grid-snake.svg">
 </picture>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yyy-router" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyy-router" /> </div>
