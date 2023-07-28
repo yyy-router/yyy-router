@@ -3,5 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyy-router/yyy-router/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yyy-router/yyy-router/output/github-contribution-grid-snake.svg">
 </picture>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyy-router" /> </div>
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyy-router" /> </div>
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyy-router&theme=dark&hide_border=true" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
