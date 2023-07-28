@@ -1,1 +1,1 @@
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/yyy-router/yyy-router/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/yyy-router/yyy-router/main/assets/github-contribution-grid-snake.svg)
