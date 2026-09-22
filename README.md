@@ -32,12 +32,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div><br><br>
 
-<!-- 代码贡献量 -->
-<div align=left>
-  <img align="" height=150px src="https://github-readme-stats.vercel.app/api?username=yyy-router&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  <img align="" height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyy-router&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</div><br><br>
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
