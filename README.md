@@ -6,7 +6,7 @@
 </picture><br><br>
 
 <!-- 软件图标 -->
-<div align=left>
+<!-- <div align=left>
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -18,7 +18,7 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-</div><br><br>
+</div><br><br> -->
 
 <!-- 编程语言图标 -->
 <div align=left>
